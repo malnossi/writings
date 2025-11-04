@@ -1,6 +1,10 @@
 +++
 title = "من رسائل الغول للصبيِّ ذي الرأسين"
 date = 2025-11-01
+
+[extra]
+name = "couple.jpg"
+alt = "Couple in Bed 1977 - Philip Guston"
 +++
 
 # الرِّسالة الأولى
